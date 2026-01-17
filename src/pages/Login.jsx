@@ -2,7 +2,6 @@
 const Login = () => {
   return (
     <div>
-      clkajxlksa
     </div>
   )
 }
